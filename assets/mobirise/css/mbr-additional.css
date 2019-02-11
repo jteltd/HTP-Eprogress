@@ -5601,6 +5601,22 @@ body {
 .cid-qRyQ98tVx3 .mbr-section-subtitle DIV {
   color: #000000;
 }
+.cid-rhLQq4ig6P {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #ffffff;
+}
+.cid-rhLQq4ig6P .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-rhLQq4ig6P .video-block {
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .cid-rhLQq4ig6P .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qRyQCaXLOQ {
   padding-top: 15px;
   padding-bottom: 15px;
